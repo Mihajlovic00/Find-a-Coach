@@ -57,8 +57,3 @@ export default {
     context.commit('setRequests', requests);
   }
 };
-
-
-
-
-
